@@ -1,0 +1,29 @@
+center{
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin-bottom: 10px;
+h1{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+    font-style: normal;
+    color: black;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight:normal;
+    font-style: normal;
+    color: black; 
+}
+a{ 
+    padding: 15px;
+    background-color: rgb(23, 9, 78);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 5px;
+   
+}
